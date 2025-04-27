@@ -1,0 +1,41 @@
+{
+    "Ambient/Electronic": {
+        "ambient": ["ambient instrumental", "atmospheric ambient", "drone ambient", "space ambient"],
+        "electronic": ["downtempo electronic", "minimal electronic", "ambient electronic", "experimental ambient"],
+        "modern": ["synthwave instrumental", "electronic ambient", "minimal techno", "ambient techno"]
+    },
+    "Lo-Fi/Chill": {
+        "beats": ["lofi beats", "chillhop beats", "jazzhop instrumental", "study beats"],
+        "instrumental": ["lofi instrumental", "lofi piano", "lofi jazz", "chill instrumental"],
+        "ambient": ["chill ambient", "background music", "study music", "focus music"]
+    },
+    "Classical/Neo-Classical": {
+        "piano": ["classical piano", "piano instrumental", "solo piano", "peaceful piano"],
+        "orchestral": ["classical instrumental", "contemporary classical", "modern classical", "neo classical"],
+        "minimal": ["minimal classical", "modern composition", "ambient classical", "ethereal classical"]
+    },
+    "Atmospheric": {
+        "nature": ["nature sounds", "forest ambience", "ocean sounds", "rainfall sounds"],
+        "spiritual": ["meditation music", "zen meditation", "healing music", "relaxation music"],
+        "soundscape": ["ambient soundscape", "atmospheric music", "drone music", "space music"]
+    },
+    "Post-Rock": {
+        "instrumental": ["post rock instrumental", "cinematic post rock", "ambient post rock", "atmospheric rock"],
+        "modern": ["modern instrumental", "experimental rock", "art rock instrumental", "progressive instrumental"]
+    },
+    "World/Ethnic": {
+        "asian": ["japanese instrumental", "chinese traditional", "tibetan bowls", "indian instrumental"],
+        "european": ["celtic instrumental", "scandinavian folk", "boho ambient", "mediterranean instrumental"],
+        "latin": ["latin instrumental", "andean music", "flamenco guitar", "bossa nova instrumental"]
+    },
+    "Cinematic": {
+        "score": ["film score", "movie soundtrack", "cinematic instrumental", "orchestral score"],
+        "ambient": ["cinematic ambient", "film ambient", "soundtrack meditation", "movie atmosphere"],
+        "modern": ["modern score", "contemporary soundtrack", "cinematic electronic", "atmospheric score"]
+    },
+    "Contemporary": {
+        "minimal": ["minimal instrumental", "modern minimal", "contemporary classical", "minimal electronic"],
+        "experimental": ["experimental ambient", "avant-garde instrumental", "modern composition", "contemporary soundscape"],
+        "fusion": ["electronic classical", "modern chamber", "neo instrumental", "contemporary meditation"]
+    }
+}
